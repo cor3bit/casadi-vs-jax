@@ -1,2 +1,3 @@
-# casadi-samples
-casadi-samples
+# Casadi vs JAX
+
+Comparison of Casadi vs JAX performance
